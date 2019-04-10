@@ -2,7 +2,7 @@
 
 https://exif.studio
 
-Wouldn't it be nice to have one place to manage and display your analog film assets? I shoot analog film and my hybrid analog-digital workflow is all over the place. Sites for sharing (who owns that image now?), other sites for tech discussion, still more sites for professional development, portfolios and, of course, another process for embedding and managing exif data. I just want to scan and store my assets and have the exif data automagically update everywhere. Oh, and only through a secureprivate cloud.
+Wouldn't it be nice to have one place to manage and display your analog film assets? I shoot analog film and my hybrid analog-digital workflow is all over the place. Sites for sharing (who owns that image now?), other sites for tech discussion, still more sites for professional development, portfolios and, of course, another process for embedding and managing exif data. I just want to scan and store my assets and have the exif data automagically update everywhere. Oh, and only through a secure private cloud.
 
 ## Requires:
 
